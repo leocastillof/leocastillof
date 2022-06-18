@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leocastillof, I'm twenty-two years old, I'm a programming fan. CEO of Stlytalent.
+- 👋 Hi, I’m @leocastillof, I'm twenty-two years old, I'm a programming fan. CEO of STlY.
 - 👀 I’m interested in learn PHP, Java, Kotlin, and web design.
 - 🌱 I am currently learning PHP, Java, Kotlin, MySQL, CSS, among other languages.
 - 💞️ I’m looking to collaborate on ...

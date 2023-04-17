@@ -10,6 +10,7 @@ Full Stack Dev
   <img align="center" alt="Leo-Castillo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-Castillo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-Castillo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-Castillo-Angular" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/angularjs+plain-1324760521652845795.png">
 </div>
   
   ##

@@ -1,7 +1,8 @@
 Full Stack Dev
-<h1 align="center">Hello! I'm Leo Castillo!<img src="https://media2.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif?cid=ecf05e47wsz1u705rbt6qhnifzmszu24of6glvgra4d1mr5b&rid=giphy.gif&ct=g" height="30"></h1>
+<h1 align="center">Hello! I'm Leo Castillo!&nbsp;<img src="https://media.giphy.com/media/HKlhoMBuKLzorqpRR6/giphy.gif" height="30"></h1>
 
 <h3 align="center">I love programming, I like learning and being able to create things!</h3>
+<h3 align="center">I study at UNSL, although I prefer to be self-taught, I have a strong interest in Angular, Javascript, SQL, Java Spring Boot, Kotlin, Php and CSS</h3>
 
 <h3 align="center">Languages</h3>
 <div style="display: inline_block"><br>

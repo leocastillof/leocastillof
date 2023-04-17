@@ -23,8 +23,8 @@ Full Stack Dev
   <a href="https://www.youtube.com/channel/UC6Gj5sJqYwD3oLv1oG6sfug" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="Leo-Castillo-Yt"></a>
   <a href="https://www.instagram.com/leocastillo.f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Leo-Castillo-Ig"></a>
  	<a href="https://www.twitch.tv/screds" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" alt="Leo-Castillo-Twitch"></a>
- <a href="discordapp.com/users/432346032194453534" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leocastillofavierx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leocastillof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="discordapp.com/users/432346032194453534" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"  alt="Leo-Castillo-Discord"></a> 
+  <a href = "mailto:leocastillofavierx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  alt="Leo-Castillo-Gmail" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leocastillof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Leo-Castillo-Linkedin" target="_blank"></a> 
   
 </div>

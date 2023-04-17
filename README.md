@@ -19,9 +19,10 @@
   ##
   
 <p align="center">
-  <img src="https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif" alt="Elliot-Alderson" />
+  <img src="https://media.giphy.com/media/W3klTgJuKy5vymEoe7/giphy.gif" alt="Elliot-Alderson" />
 </p>
  
+<h3 align="center">My social networks</h3>
 <div align="center"> 
   <a href="https://www.youtube.com/@leocastillof" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="Leo-Castillo-Yt"></a>
   <a href="https://www.instagram.com/leocastillo.f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Leo-Castillo-Ig"></a>

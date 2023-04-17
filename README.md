@@ -32,3 +32,11 @@
   <a href="https://www.linkedin.com/in/leocastillof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Leo-Castillo-Linkedin" target="_blank"></a> 
   
 </div>
+
+ <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leocastillof&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leocastillof&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leocastillof&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leocastillof&theme=monokai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leocastillof&theme=monokai&utcOffset=8">
+</p>

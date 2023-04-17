@@ -1,4 +1,3 @@
-Full Stack Dev
 <h1 align="center">Hello! I'm Leo Castillo!&nbsp;<img src="https://media.giphy.com/media/HKlhoMBuKLzorqpRR6/giphy.gif" height="30"></h1>
 
 <p align="left"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="30">&nbsp;I love programming, I like learning and being able to create things!</p>
@@ -18,6 +17,10 @@ Full Stack Dev
 </div>
   
   ##
+  
+<p align="center">
+  <img src="https://media.giphy.com/media/mQG644PY8O7rG/giphy.gif" alt="Elliot-Alderson" />
+</p>
  
 <div align="center"> 
   <a href="https://www.youtube.com/@leocastillof" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="Leo-Castillo-Yt"></a>

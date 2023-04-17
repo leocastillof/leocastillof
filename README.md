@@ -1,4 +1,4 @@
-## Hello! I'm Leo Castillo Full Stack Dev
+Full Stack Dev
 <h1 align="center">Hello! I'm Leo Castillo!<img src="https://media2.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif?cid=ecf05e47wsz1u705rbt6qhnifzmszu24of6glvgra4d1mr5b&rid=giphy.gif&ct=g" height="30"></h1>
 
 <h3 align="center">I love programming, I like learning and being able to create things!</h3>

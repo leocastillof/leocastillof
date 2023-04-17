@@ -10,7 +10,12 @@ Full Stack Dev
   <img align="center" alt="Leo-Castillo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-Castillo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-Castillo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Castillo-Angular" height="30" src="https://icons-for-free.com/iconfiles/png/512/angularjs+plain-1324760521652845795.png">
+  <img align="center" alt="Leo-Castillo-Angular" height="30" src="https://icons-for-free.com/iconfiles/png/512/angularjs+original-1324760521549931472.png">
+  <img align="center" alt="Leo-Castillo-PHP" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
+  <img align="center" alt="Leo-Castillo-SQL" height="30" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Leo-Castillo-Kotlin" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
+  <img align="center" alt="Leo-Castillo-Kotlin" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
+  <img align="center" alt="Leo-Castillo-Java" height="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
 </div>
   
   ##

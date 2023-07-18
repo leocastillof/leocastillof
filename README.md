@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="30">&nbsp;I love programming, I like learning and being able to create things!</p>
 <p align="left"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="30">&nbsp;I study at UNSL, although I prefer to be self-taught.</p>
-<p align="left"><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="30">&nbsp;I have a strong interest in Angular, Javascript, SQL, Java Spring Boot, Kotlin, Php and CSS.</p>
+<p align="left"><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" height="30">&nbsp;I have a strong interest in Angular, Javascript, SQL, Java Spring Boot, Kotlin, Flutter, PHP POO and CSS.</p>
 
 
 <h3 align="center">Languages</h3>

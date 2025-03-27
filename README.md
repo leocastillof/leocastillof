@@ -15,7 +15,6 @@
   <img align="center" alt="Leo-Castillo-PHP" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
   <img align="center" alt="Leo-Castillo-SQL" height="30" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img align="center" alt="Leo-Castillo-Kotlin" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
-  <img align="center" alt="Leo-Castillo-Java" height="30" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
 </div>
   
   ##

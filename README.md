@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/64986e0c-97da-4582-8bc1-c57372a06920" /><h1 align="center">Hello! I'm Leo Castillo!&nbsp;<img src="https://media.giphy.com/media/HKlhoMBuKLzorqpRR6/giphy.gif" height="30"></h1>
+<h1 align="center">Hello! I'm Leo Castillo!&nbsp;<img src="https://media.giphy.com/media/HKlhoMBuKLzorqpRR6/giphy.gif" height="30"></h1>
 <p align="left"><img src="https://media.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif" height="30">&nbsp;I currently work as a backend developer at Leapsight.</p>
 <p align="left"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="30">&nbsp;I love programming, I like learning and being able to create things!</p>
 <p align="left"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" height="30">&nbsp;I am a certified full stack programmer, I am passionate about computing and today I continue to study self-taught.</p>

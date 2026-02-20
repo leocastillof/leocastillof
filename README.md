@@ -10,7 +10,7 @@
   <img align="center" alt="Leo-Castillo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-Castillo-SpringBoot" height="30" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000">
   <img align="center" alt="Leo-Castillo-SQL" height="30" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
-  <img align="center" alt="Leo-Castillo-Kotlin" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
+  <img align="center" alt="Leo-Castillo-Kotlin" height="30" src="https://icon.icepanel.io/Technology/svg/Kotlin.svg">
   <img align="center" alt="Leo-Castillo-Flutter" height="30" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000">
 </div>
   
